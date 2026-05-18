@@ -1,0 +1,2 @@
+# Custom-ESP32-touchscreen-controller-for-RDC6332G-laser-cutters
+replaces the OEM panel using a CYD (ESP32-2432S028) board connected via the HDI port. Features a full LVGL 9.5 UI with X/Y/Z jog controls, homing, laser test fire with adjustable power, frame, start/pause/stop, and live status display showing coordinates, machine state, and job progress. Built with TFT_eSPI and XPT2046 for Arduino IDE.
